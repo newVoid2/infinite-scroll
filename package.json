@@ -1,0 +1,19 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newVoid2/infinite-scroll.git"
+  },
+  "author": "Richard Kerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newVoid2/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/newVoid2/infinite-scroll#readme"
+}
